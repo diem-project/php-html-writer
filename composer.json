@@ -1,0 +1,10 @@
+{
+    "name":        "diem-project/php-html-writer",
+    "description": "Create HTML tags and render them efficiently.  Forked from ornicar/php-html-writer to be able to use with composer",
+    "authors": [
+	      {
+            "name": "Thibault Duplessis",
+            "email": "fabien@symfony.com"
+        }
+    ]
+}
